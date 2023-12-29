@@ -25,5 +25,7 @@ This repository serves as the source code for the research paper titled "Forecas
 ![24M_forecasts_CPI](https://github.com/shovon-Machine-Learning-DL-AI/FEWNet/blob/main/forecasts_CPI_24M.jpg)
 
 * A generic Python code module performance evaluation and MCB test are available in # [evaluation](/code/Performance_evaluation/evaluation.py) and  # [MCB](/code/Performance_evaluation/MCB_test.R). The dataset used for the MCB test can be accessed in #[performance_evaluation](/dataset/performance_evaluation/mcb_test_alternative_12M_24M_paper_data.xlsx).
+
+* The code module, along with the datasets, can be referred to reproduce the tables, charts, and final performance evaluation.
   
 
