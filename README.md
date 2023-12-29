@@ -8,6 +8,9 @@ This repository serves as the source code for the research paper titled "Forecas
 
 * The following image illustrates the key steps for generating the forecasts using FEWNet algorithm:
 ![Pseudo_Code_FEWNet](https://github.com/shovon-Machine-Learning-DL-AI/FEWNet/blob/main/PseudoCode_FEWNet.jpg)
-- 
+
+* This repository contains the datasets for the CPI Inflation numbers along with the EPU and GPRC indices for the BRIC countries, and these datasets have been used in the downstream model development exercise. In order to access the dataset, please refer to the [dataset](link to the dataset) section in the GitHub. For more detail about the datasets, please refer to the paper[paper](ArXiv link). In our study, we consider the monthly CPI numbers for BRIC countries from 2003-01 to 2021-11 released by FRED (Federal Reserve Bank of St. Louis)[FRED - BRAZIL CPI](https://fred.stlouisfed.org/series/BRACPIALLMINMEI). 
+
+* 
   
 
