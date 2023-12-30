@@ -37,4 +37,7 @@ This repository serves as the source code for the research paper titled "Forecas
 * <a id="4">[4]</a> [CPI Data: China](https://fred.stlouisfed.org/series/CHNCPIALLMINMEI)
 * <a id="5">[5]</a> [EPU Data](https://www.policyuncertainty.com/index.html)
 * <a id="6">[6]</a> [GPRC Data](https://www.policyuncertainty.com/gpr.html)
+* <a id="7">[7]</a> Madhurima Panja, Tanujit Chakraborty, Uttam Kumar, and Nan Liu. Epicasting: An ensemble wavelet
+neural network for forecasting epidemics. Neural Networks, 2023.
+
   
