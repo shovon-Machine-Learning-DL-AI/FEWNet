@@ -30,4 +30,11 @@ This repository serves as the source code for the research paper titled "Forecas
 
 * The code module, along with the datasets, can be referred to reproduce the tables, charts, and final performance evaluation.
   
-
+## References
+* <a id="1">[1]</a> [CPI Data: Brazil](https://fred.stlouisfed.org/series/BRACPIALLMINMEI)
+* <a id="2">[2]</a> [CPI Data: Russia](https://fred.stlouisfed.org/series/RUSCPIALLMINMEI)
+* <a id="3">[3]</a> [CPI Data: India](https://fred.stlouisfed.org/series/INDCPIALLMINMEI)
+* <a id="4">[4]</a> [CPI Data: China](https://fred.stlouisfed.org/series/CHNCPIALLMINMEI)
+* <a id="5">[5]</a> [EPU Data](https://www.policyuncertainty.com/index.html)
+* <a id="6">[6]</a> [GPRC Data](https://www.policyuncertainty.com/gpr.html)
+  
