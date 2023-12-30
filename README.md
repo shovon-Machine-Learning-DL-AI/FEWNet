@@ -37,7 +37,10 @@ This repository serves as the source code for the research paper titled "Forecas
 * <a id="4">[4]</a> [CPI Data: China](https://fred.stlouisfed.org/series/CHNCPIALLMINMEI)
 * <a id="5">[5]</a> [EPU Data](https://www.policyuncertainty.com/index.html)
 * <a id="6">[6]</a> [GPRC Data](https://www.policyuncertainty.com/gpr.html)
-* <a id="7">[7]</a> Madhurima Panja, Tanujit Chakraborty, Uttam Kumar, and Nan Liu. Epicasting: An ensemble wavelet
-neural network for forecasting epidemics. Neural Networks, 2023.
+* <a id="7">[7]</a> Pratap, Bhanu and Sengupta, Shovon. Rbi working paper series no. 04 macroeconomic forecasting in india: Does machine learning hold the key to better forecasts? 2019.
+* <a id="8">[8]</a> Panja, Madhurima, Chakraborty,Tanujit, Kumar,Uttam and Liu, Nan. Epicasting: An ensemble wavelet neural network for forecasting epidemics. Neural Networks, 2023.
+* <a id="9">[9]</a> Herzen, Julien, et al. "Darts: User-friendly modern machine learning for time series." Journal of Machine Learning Research 23.124 (2022): 1-6.
+* <a id="10">[10]</a> Garza, Federico et al. "StatsForecast: Lightning fast forecasting with statistical and econometric models." PyCon, Salt Lake City, Utah, US (2022)
+
 
   
